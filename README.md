@@ -70,20 +70,11 @@ The project is deliberately being developed in small iterations rather than atte
 
 🚧 **Active development**
 
-### Current Milestone: PDF Annotation Prototype
 
-- [ ] PDF reading
-- [ ] Text highlighting
-- [ ] Text notes
-- [ ] Speech bubbles
-- [ ] Doodles
-- [ ] Image stickers
-- [ ] Fixed annotation toolbar
-- [ ] Genuine drawing tools
-- [ ] Free-flowing / text-anchored highlighting
-- [ ] Persistent global sticker library
-- [ ] Expanded doodle library
-- [ ] Drawing grids
-- [ ] Additional handwriting fonts
-- [ ] Annotation inversion
-- [ ] Export
+--
+
+## Documentation
+
+- [Development Log](docs/development-log.md)
+- [Prompt 01 – Initial Build](docs/prompt-01-initial-build.md)
+- [Prompt 02 – UX Revision](docs/prompt-02-ux-revision.md)
