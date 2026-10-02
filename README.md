@@ -70,8 +70,7 @@ The project is deliberately being developed in small iterations rather than atte
 
 🚧 **Active development**
 
-
---
+---
 
 ## Documentation
 
